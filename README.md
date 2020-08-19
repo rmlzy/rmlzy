@@ -2,8 +2,6 @@
 
 Hi, I'm **Jason Liu**, front-end developer of [homedo.com](https://www.homedo.com/), husband of [Poppy](http://poppython.com/blog/about-poppy.html), father of [TianYi](http://poppython.com/blog/playing-games-with-my-son.html).
 
-I'm a front-end developer at [homedo.com](https://www.homedo.com/).
-
 ### My open-source projects
 - [Tools](http://util.city): Some free online tools.
 - [Form Builder](http://fb.util.city): Build React/Vue Form in minutes.
