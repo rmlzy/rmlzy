@@ -1,4 +1,4 @@
-<img align="left" src="./assets/rmlzy.jpeg" alt="Jason Liu" width=285px height=384px/>
+<img align="left" src="./assets/rmlzy.jpeg" alt="Jason Liu" width=285px />
 
 Hi, I'm **Jason Liu**, front-end developer of [homedo.com](https://www.homedo.com/), husband of [Poppy](http://poppython.com/blog/about-poppy.html), father of [TianYi](http://poppython.com/blog/playing-games-with-my-son.html).
 
