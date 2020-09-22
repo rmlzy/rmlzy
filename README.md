@@ -9,5 +9,6 @@ Hi, I'm **Jason Liu**, front-end developer of [homedo.com](https://www.homedo.co
 - [Coder's Notebook](https://github.com/rmlzy/coder-notebook): A Notebook App for Coder.
 
 ### Get ini touch
+- Home Page: [about-rmlzy](http://poppython.com/blog/about-rmlzy.html)
 - Twitter: [@rmlzy](https://twitter.com/rmlzy)
 - Email: <a href="mailto:rmlzy@outlook.com">rmlzy@outlook.com</a>
