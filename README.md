@@ -4,8 +4,8 @@ Hi, I'm **Jason Liu**, front-end developer of [homedo.com](https://www.homedo.co
 
 ### My open-source projects
 - [Tools](http://util.city): Some free online tools.
-- [Keep it Simple](http://poppython.com): A blog platform based on Egg.js.
-- [Coder's Notebook](https://github.com/rmlzy/coder-notebook): A Notebook App for Coder.
+- [kis](http://poppython.com): A blog platform based on Egg.js.
+- [kis-desktop](https://github.com/rmlzy/coder-notebook): Desktop Client for Kis.
 
 ### Get in touch
 - Home Page: [about-rmlzy](http://poppython.com/blog/about-rmlzy.html)
