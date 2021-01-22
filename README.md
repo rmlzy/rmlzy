@@ -1,15 +1,15 @@
 <img align="left" src="https://poppython.oss-cn-beijing.aliyuncs.com/pdf_report/39ba7bcf-0602-4481-af81-6d02d64b331e__WechatIMG52.jpeg" alt="Jason Liu" height="340px" style="margin-right: 15px; border-radius: 4px;" />
 
-Hi, I'm **Jason Liu**, front-end developer of [homedo.com](https://www.homedo.com/), husband of [Poppy](http://poppython.com/blog/about-poppy.html), father of [TianYi](http://poppython.com/blog/playing-games-with-my-son.html).
+嗨, 我是 **小远子**, 前端工程师(@[homedo.com](https://www.homedo.com/)), 已婚([Poppy](http://poppython.com/blog/about-poppy.html)), 已育([TianYi](http://poppython.com/blog/playing-games-with-my-son.html)).
 
-### My open-source projects
-- [Tools](http://util.city): Some free online tools.
-- [kis](http://poppython.com): A blog platform based on Egg.js.
-- [kis-desktop](https://github.com/rmlzy/kis-desktop): Desktop Client for Kis.
+### 我的项目
+- [tools](http://util.city): 工具小站
+- [form-builder-vue](https://github.com/rmlzy/form-builder-vue): 拖拽控件生成Vue代码
+- [export_jd_read](https://github.com/rmlzy/export_jd_read): 一键导出京东阅读已购买的电子书
+- [coding-for-grandpa](https://github.com/rmlzy/coding-for-grandpa): 抓取一些公开的评书、相声、戏剧资源
 
-### Get in touch
-- Home Page: [about-rmlzy](http://poppython.com/blog/about-rmlzy.html)
-- Twitter: [@rmlzy](https://twitter.com/rmlzy)
+### 联系我
+- 我的主页: [about-rmlzy](http://poppython.com/blog/about-rmlzy.html)
 - Email: <a href="mailto:rmlzy@outlook.com">rmlzy@outlook.com</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rmlzy.rmlzy)
