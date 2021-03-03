@@ -9,7 +9,7 @@
 - [coding-for-grandpa](https://github.com/rmlzy/coding-for-grandpa): 抓取一些公开的评书、相声、戏剧资源
 
 ### 联系我
-- 我的主页: [about-rmlzy](http://poppython.com/blog/about-rmlzy.html)
+- 我的主页: [poppython.com](https://poppython.com/)
 - Email: <a href="mailto:rmlzy@outlook.com">rmlzy@outlook.com</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rmlzy.rmlzy)
