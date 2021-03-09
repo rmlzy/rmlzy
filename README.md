@@ -1,6 +1,6 @@
 <img align="left" src="https://poppython.oss-cn-beijing.aliyuncs.com/pdf_report/39ba7bcf-0602-4481-af81-6d02d64b331e__WechatIMG52.jpeg" alt="Jason Liu" height="340px" style="margin-right: 15px; border-radius: 4px;" />
 
-嗨, 我是 **小远子**, 前端工程师(@[homedo.com](https://www.homedo.com/)), 已婚([Poppy](http://poppython.com/blog/about-poppy.html)), 已育([TianYi](http://poppython.com/blog/playing-games-with-my-son.html)).
+嗨, 我是 **小远子**, 前端工程师(@[homedo.com](https://www.homedo.com/)), 已婚([Poppy](https://poppython.com/about-poppy.html)), 已育([TianYi](https://poppython.com/blog/playing-games-with-my-son.html)).
 
 ### 我的项目
 - [tools](http://util.city): 工具小站
