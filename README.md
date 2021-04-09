@@ -1,4 +1,4 @@
-<img align="left" src="https://poppython.oss-cn-beijing.aliyuncs.com/blog/avatar.jpeg" alt="Jason Liu" height="340px" style="margin-right: 15px; border-radius: 4px;" />
+<img align="left" src="https://poppython.oss-cn-beijing.aliyuncs.com/blog/avatar.jpeg" alt="Jason Liu" height="340px" style="margin-right: 20px; border-radius: 4px;" />
 
 嗨, 我是 **小远子**, 前端工程师(@[homedo.com](https://www.homedo.com/)), 已婚([Poppy](https://www.poppython.com/about-vina.html)), 已育([TianYi](https://www.poppython.com/about-tian.html)).
 
