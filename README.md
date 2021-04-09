@@ -1,6 +1,6 @@
 <img src="https://poppython.oss-cn-beijing.aliyuncs.com/blog/avatar.jpeg" alt="rmlzy avatar" height="340px" />
 
-嗨, 我是 **小远子**, 前端工程师(@[homedo.com](https://www.homedo.com/)), 已婚([Poppy](https://www.poppython.com/about-vina.html)), 已育([TianYi](https://www.poppython.com/about-tian.html)).
+嗨, 我是 **小远子**, 前端工程师(@[homedo.com](https://www.homedo.com/)), 2016年毕业于[太理](http://www2017.tyut.edu.cn/), 在上海工作, 已婚([Poppy](https://www.poppython.com/about-vina.html)), 已育([TianYi](https://www.poppython.com/about-tian.html)).
 
 ### 我的技能
 - 语言: JavaScript, Node, 一点点Python;
