@@ -1,4 +1,4 @@
-a regular tech.
+just a tech.
 
 
 - my website: [poppython.com](https://poppython.com/)
